@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thanuxz/Thanuxz/main/banner.png" alt="Thanuka Rathnayake Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Thanuka Thathsara Rathnayake</h1>
 <h3 align="center">🚨 Cybersecurity Undergraduate | SOC Analyst Aspirant | SIEM & Threat Detection Enthusiast</h3>
 
